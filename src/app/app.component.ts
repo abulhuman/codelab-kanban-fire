@@ -53,6 +53,14 @@ export class AppComponent {
     {
       title: 'Create a Kanban app',
       description: 'Using Firebase and Angular create a Kanban app!'
+    },
+    {
+      title: 'Take a shower',
+      description: 'It is good to take a shower after a long day'
+    },
+    {
+      title: 'Go to the gym',
+      description: 'Do not forget to go to the gym'
     }
   ];
   inProgress: Task[] = [];
